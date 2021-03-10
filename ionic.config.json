@@ -1,5 +1,7 @@
 {
   "name": "momo_demo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
